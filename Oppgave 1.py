@@ -1,3 +1,4 @@
 """
-Lag en variabel å få python til å skrive den ut.
+1. Lag et program som printer ut noe variabler
+2. Lag et program som legger sammen to variabler og print ut svaret.
 """
