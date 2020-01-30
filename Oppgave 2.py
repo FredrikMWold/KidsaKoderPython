@@ -12,5 +12,5 @@ tall2 = int(input("Skriv in et tall: "))
 print(tall1 + tall2)
 
 navn = input("Hva er navnet ditt: ")
-alder = int(input("Hvor gammel er du: "))
+alder = input("Hvor gammel er du: ")
 print("Jeg heter " + navn + " og er " + alder + " år gammel ")

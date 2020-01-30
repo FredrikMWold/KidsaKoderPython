@@ -5,11 +5,9 @@
 
 tall1 = 3
 tall2 = 6
-
 print(tall1 + tall2)
 
 tekst1 = "Hey "
 tekst2 = "Hadde"
-
 print(tekst1 + tekst2)
 
