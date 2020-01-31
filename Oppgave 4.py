@@ -1,4 +1,5 @@
 """
-1. Lag en FOR-loop som skriver ut alle tallene mellom 0 og 10
+1. Lag en FOR-loop som skriver ut alle tallene mellom 0 og 100
 2. Foandre FOR-loopen slik at den kun skriver ut tall som er delelig på 2
+3. Lag en FOR-loop som leger sammen alle tallene fra 1-100
 """
