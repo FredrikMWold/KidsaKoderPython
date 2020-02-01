@@ -13,4 +13,4 @@ print(tall1 + tall2)
 
 navn = input("Hva er navnet ditt: ")
 alder = input("Hvor gammel er du: ")
-print("Jeg heter " + navn + " og er " + alder + " år gammel ")
+print("Jeg heter " + navn + " og er " + alder + " år gammel.")
