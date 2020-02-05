@@ -1,3 +1,3 @@
 """
-1. Lag en funksjon som tar i mot en liste med tall og summerer opp alle tallene i listen.
+Forandre innloggings programmet ditt slik at programmet ikke stopper før brukeren har skrevet inn riktig brukernavn og passord.
 """
