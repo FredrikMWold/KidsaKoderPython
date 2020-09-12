@@ -10,10 +10,3 @@ print(tall1 + tall2)
 tekst1 = "Hey "
 tekst2 = "Hadde"
 print(tekst1 + tekst2)
-
-def test():
-    pass
-
-
-
-test()
