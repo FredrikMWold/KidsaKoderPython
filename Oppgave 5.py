@@ -1,4 +1,5 @@
 """
-Lag en liste med minst 6 forskjellige tall.
-Få progammet ditt til å gå gjennom listen og pluss på 1 til alle tallene.
+Lag en liste med minst fire forskellige navn.
+Få programmet ditt til å loope gjennom listen og si "hey" til alle.
 """
+'
